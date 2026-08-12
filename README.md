@@ -1104,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/abjeet16/DSA-leetcode/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/abjeet16/DSA-leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
@@ -1255,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/abjeet16/DSA-leetcode/tree/master/1020-number-of-enclaves) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abjeet16/DSA-leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/abjeet16/DSA-leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1631-path-with-minimum-effort](https://github.com/abjeet16/DSA-leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -1269,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/abjeet16/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abjeet16/DSA/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/abjeet16/DSA-leetcode/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/abjeet16/DSA-leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/abjeet16/DSA-leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abjeet16/DSA-leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/abjeet16/DSA-leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -1365,6 +1368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/abjeet16/DSA-leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/abjeet16/DSA-leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/abjeet16/DSA-leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/abjeet16/DSA-leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/abjeet16/DSA-leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abjeet16/DSA-leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
