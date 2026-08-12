@@ -1,33 +1,36 @@
 class Solution {
     public int makeConnected(int n, int[][] c) {
-        if(c.length<n-1)return -1;
-        boolean[] vis = new boolean[n];
-        List<Integer>[] mat = new ArrayList[n];
-        form(mat,n,c);
-        int noComp = 0;
-        for(int i = 0 ; i < n ; i ++){
-            if(!vis[i]){
-                noComp++;
-                dfs(i,mat,vis);
+        if(n-1>c.length)return -1;
+
+        int[] par = new int[n];
+        for(int i = 0 ; i < n ; i++)par[i]=i;
+
+        int[] rank = new int[n];
+
+        int noComp = n;
+
+        for(int[] i : c){
+            int pu = find(i[0],par);
+            int pv = find(i[1],par);
+            if(pu!=pv){
+                noComp--;
+                uni(pu,pv,par,rank);
             }
         }
         return noComp-1;
     }
-    private void form(List<Integer>[] mat,int n, int[][] c){
-        for(int i = 0 ; i < n ; i++){
-            mat[i]=new ArrayList<>();
-        }
-        for(int[] i : c){
-            mat[i[0]].add(i[1]);
-            mat[i[1]].add(i[0]);
-        }
+    private int find(int i , int[] par){
+        if(i==par[i])return i;
+        return par[i]=find(par[i],par);
     }
-    private void dfs(int i , List<Integer>[] mat , boolean[] vis){
-        for(int j = 0 ; j < mat[i].size() ; j++){
-            if(!vis[mat[i].get(j)]){
-                vis[mat[i].get(j)] = true;
-                dfs(mat[i].get(j),mat,vis);
-            }
+    private void uni(int pu,int pv,int[] par,int[] rank){
+        if(rank[pu]==rank[pv]){
+            par[pv]=pu;
+            rank[pu]++;
+        }else if(rank[pu]>rank[pv]){
+            par[pv]=pu;
+        }else{
+            par[pu]=pv;
         }
     }
 }
