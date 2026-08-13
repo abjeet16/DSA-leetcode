@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/abjeet16/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/abjeet16/DSA-leetcode/tree/master/1020-number-of-enclaves) |
+| [1043-partition-array-for-maximum-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1051-height-checker](https://github.com/abjeet16/DSA-leetcode/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/abjeet16/DSA-leetcode/tree/master/0799-champagne-tower) |
 | [0931-minimum-falling-path-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1043-partition-array-for-maximum-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abjeet16/DSA-leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abjeet16/DSA-leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/abjeet16/DSA-leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
