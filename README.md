@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/abjeet16/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/abjeet16/DSA/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/abjeet16/DSA/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/abjeet16/DSA-leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/abjeet16/DSA-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/abjeet16/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/abjeet16/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abjeet16/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/abjeet16/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/abjeet16/DSA/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/abjeet16/DSA-leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/abjeet16/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/abjeet16/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/abjeet16/DSA/tree/master/0139-word-break) |
@@ -1238,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/abjeet16/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abjeet16/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/abjeet16/DSA/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/abjeet16/DSA-leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/abjeet16/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/abjeet16/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/abjeet16/DSA/tree/master/0200-number-of-islands) |
@@ -1544,4 +1547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abjeet16/DSA-leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/abjeet16/DSA-leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
