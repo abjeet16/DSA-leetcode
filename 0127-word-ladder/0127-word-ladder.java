@@ -1,50 +1,35 @@
 class Solution {
-    public int ladderLength(String bw, String ew, List<String> wl) {
-        int n = wl.size();
-        HashMap<String, List<Integer>> mp = new HashMap<>();
-        for (int i = -1; i < n; i++) {
-            String key = i == -1 ? bw : wl.get(i);
-            List<Integer> match = new ArrayList<>();
-            for (int j = 0; j < n; j++) {
-                if (i == j)
-                    continue;
-                boolean om = false;
-                String curr = wl.get(j);
-                int k = 0;
-                while (k < curr.length()) {
-                    if (curr.charAt(k) != key.charAt(k)) {
-                        if (om)
-                            break;
-                        om = true;
-                    }
-                    k++;
-                }
-                if (k == curr.length() && om)
-                    match.add(j);
-            }
-            mp.put(key, match);
-        }
-        boolean[] seen = new boolean[n];
-        Queue<String> q = new LinkedList<>();
-        for (int i : mp.get(bw)) {
-            seen[i] = true;
-            q.offer(wl.get(i));
-        }
-        int level = 2;
+    public int ladderLength(String startWord, String targetWord, List<String> wordList) {
+        Queue<Pair<String, Integer>> q = new LinkedList<>();
+        q.add(new Pair<>(startWord, 1));
+
+        Set<String> st = new HashSet<>(wordList);
+        st.remove(startWord);
+
         while (!q.isEmpty()) {
-            int size = q.size();
-            for (int i = 0; i < size; i++) {
-                String key = q.poll();
-                if(key.equals(ew))return level;
-                for (int j : mp.get(key)) {
-                    if (!seen[j]) {
-                        seen[j] = true;
-                        q.offer(wl.get(j));
+            String word = q.peek().getKey();
+            int steps = q.peek().getValue();
+            q.poll();
+
+            // If target word is found
+            if (word.equals(targetWord)) return steps;
+
+            // Try changing every character
+            for (int i = 0; i < word.length(); i++) {
+                char[] arr = word.toCharArray();
+                char original = arr[i];
+                for (char ch = 'a'; ch <= 'z'; ch++) {
+                    arr[i] = ch;
+                    String newWord = new String(arr);
+                    if (st.contains(newWord)) {
+                        st.remove(newWord);
+                        q.add(new Pair<>(newWord, steps + 1));
                     }
                 }
+                arr[i] = original;
             }
-            level++;
         }
         return 0;
     }
+
 }
