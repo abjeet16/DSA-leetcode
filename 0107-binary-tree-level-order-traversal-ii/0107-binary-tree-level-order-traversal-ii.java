@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-    int seenl = -1;
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
         List<List<Integer>> res = new LinkedList<>();
         form(res,root,1);
@@ -23,7 +22,6 @@ class Solution {
     private void form(List<List<Integer>> res,TreeNode root,int level){
         if(root==null)return;
         if(level>res.size()){
-            seenl=level;
             res.addFirst(new ArrayList<>());
         }
         res.get(res.size()-level).add(root.val);
