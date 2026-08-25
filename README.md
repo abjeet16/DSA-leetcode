@@ -642,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/abjeet16/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abjeet16/DSA/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/abjeet16/DSA-leetcode/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/abjeet16/DSA-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/0216-combination-sum-iii) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/abjeet16/DSA-leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/abjeet16/DSA-leetcode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/abjeet16/DSA/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/abjeet16/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abjeet16/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -1196,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abjeet16/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/abjeet16/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/abjeet16/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abjeet16/DSA/tree/master/0101-symmetric-tree) |
@@ -1242,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abjeet16/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/abjeet16/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/abjeet16/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abjeet16/DSA/tree/master/0101-symmetric-tree) |
@@ -1283,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/abjeet16/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abjeet16/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
