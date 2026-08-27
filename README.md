@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abjeet16/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/abjeet16/DSA-leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/abjeet16/DSA-leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/abjeet16/DSA-leetcode/tree/master/0299-bulls-and-cows) |
 | [0402-remove-k-digits](https://github.com/abjeet16/DSA-leetcode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/abjeet16/DSA-leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/0415-add-strings) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abjeet16/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/abjeet16/DSA-leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/abjeet16/DSA-leetcode/tree/master/0299-bulls-and-cows) |
 | [0560-subarray-sum-equals-k](https://github.com/abjeet16/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abjeet16/DSA-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/abjeet16/DSA-leetcode/tree/master/0705-design-hashset) |
@@ -1388,6 +1390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abjeet16/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/abjeet16/DSA-leetcode/tree/master/0299-bulls-and-cows) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abjeet16/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abjeet16/DSA-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
