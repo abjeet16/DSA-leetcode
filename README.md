@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/abjeet16/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/abjeet16/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/abjeet16/DSA-leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0611-valid-triangle-number) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/abjeet16/DSA-leetcode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/abjeet16/DSA-leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/abjeet16/DSA-leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/abjeet16/DSA-leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/abjeet16/DSA-leetcode/tree/master/0551-student-attendance-record-i) |
