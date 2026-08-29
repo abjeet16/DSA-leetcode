@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/abjeet16/DSA-leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1598-crawler-log-folder](https://github.com/abjeet16/DSA-leetcode/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/abjeet16/DSA-leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abjeet16/DSA-leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/abjeet16/DSA-leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abjeet16/DSA-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abjeet16/DSA-leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abjeet16/DSA-leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
