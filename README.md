@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/abjeet16/DSA-leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/abjeet16/DSA-leetcode/tree/master/0844-backspace-string-compare) |
+| [0899-orderly-queue](https://github.com/abjeet16/DSA-leetcode/tree/master/0899-orderly-queue) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abjeet16/DSA-leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/abjeet16/DSA-leetcode/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0899-orderly-queue](https://github.com/abjeet16/DSA-leetcode/tree/master/0899-orderly-queue) |
 | [0976-largest-perimeter-triangle](https://github.com/abjeet16/DSA-leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abjeet16/DSA-leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/abjeet16/DSA-leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0611-valid-triangle-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/abjeet16/DSA-leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0761-special-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0761-special-binary-string) |
+| [0899-orderly-queue](https://github.com/abjeet16/DSA-leetcode/tree/master/0899-orderly-queue) |
 | [0976-largest-perimeter-triangle](https://github.com/abjeet16/DSA-leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1651,4 +1654,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/abjeet16/DSA-leetcode/tree/master/0187-repeated-dna-sequences) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/abjeet16/DSA-leetcode/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
