@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abjeet16/DSA-leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1657-determine-if-two-strings-are-close](https://github.com/abjeet16/DSA-leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abjeet16/DSA-leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/abjeet16/DSA-leetcode/tree/master/1496-path-crossing) |
 | [1590-make-sum-divisible-by-p](https://github.com/abjeet16/DSA-leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1657-determine-if-two-strings-are-close](https://github.com/abjeet16/DSA-leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abjeet16/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/abjeet16/DSA-leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abjeet16/DSA-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abjeet16/DSA-leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/abjeet16/DSA-leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1755-closest-subsequence-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abjeet16/DSA-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1408,6 +1411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abjeet16/DSA-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/abjeet16/DSA-leetcode/tree/master/1399-count-largest-group) |
+| [1657-determine-if-two-strings-are-close](https://github.com/abjeet16/DSA-leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/abjeet16/DSA-leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abjeet16/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
