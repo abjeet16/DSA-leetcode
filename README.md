@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abjeet16/DSA-leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/abjeet16/DSA-leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abjeet16/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/abjeet16/DSA-leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -1408,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/abjeet16/DSA-leetcode/tree/master/1399-count-largest-group) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/abjeet16/DSA-leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abjeet16/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/abjeet16/DSA-leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/abjeet16/DSA-leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
