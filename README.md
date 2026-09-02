@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abjeet16/DSA-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/abjeet16/DSA-leetcode/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/abjeet16/DSA-leetcode/tree/master/0472-concatenated-words) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/abjeet16/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/abjeet16/DSA-leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/abjeet16/DSA-leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0472-concatenated-words](https://github.com/abjeet16/DSA-leetcode/tree/master/0472-concatenated-words) |
 | [0541-reverse-string-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/abjeet16/DSA-leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/abjeet16/DSA-leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0472-concatenated-words](https://github.com/abjeet16/DSA-leetcode/tree/master/0472-concatenated-words) |
 | [0542-01-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/abjeet16/DSA-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/abjeet16/DSA-leetcode/tree/master/0799-champagne-tower) |
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abjeet16/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0414-third-maximum-number) |
+| [0472-concatenated-words](https://github.com/abjeet16/DSA-leetcode/tree/master/0472-concatenated-words) |
 | [0561-array-partition](https://github.com/abjeet16/DSA-leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0611-valid-triangle-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/abjeet16/DSA-leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -1162,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/abjeet16/DSA-leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abjeet16/DSA-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/abjeet16/DSA-leetcode/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/abjeet16/DSA-leetcode/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/abjeet16/DSA-leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/abjeet16/DSA-leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -1383,6 +1388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abjeet16/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/abjeet16/DSA/tree/master/0139-word-break) |
+| [0472-concatenated-words](https://github.com/abjeet16/DSA-leetcode/tree/master/0472-concatenated-words) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Merge Sort
 |  |
