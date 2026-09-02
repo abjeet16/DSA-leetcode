@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/abjeet16/DSA-leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/abjeet16/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/abjeet16/DSA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/abjeet16/DSA-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/abjeet16/DSA-leetcode/tree/master/0799-champagne-tower) |
+| [0918-maximum-sum-circular-subarray](https://github.com/abjeet16/DSA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0761-special-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0761-special-binary-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/abjeet16/DSA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Simulation
 |  |
@@ -1526,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abjeet16/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abjeet16/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0918-maximum-sum-circular-subarray](https://github.com/abjeet16/DSA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/abjeet16/DSA-leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/abjeet16/DSA-leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Prefix Sum
@@ -1674,4 +1678,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/abjeet16/DSA-leetcode/tree/master/0899-orderly-queue) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/abjeet16/DSA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
