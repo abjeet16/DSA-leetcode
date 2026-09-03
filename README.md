@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/abjeet16/DSA-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/abjeet16/DSA-leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/abjeet16/DSA-leetcode/tree/master/0748-shortest-completing-word) |
+| [0792-number-of-matching-subsequences](https://github.com/abjeet16/DSA-leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0806-number-of-lines-to-write-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/abjeet16/DSA-leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0840-magic-squares-in-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abjeet16/DSA-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/abjeet16/DSA-leetcode/tree/master/0748-shortest-completing-word) |
 | [0761-special-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0761-special-binary-string) |
+| [0792-number-of-matching-subsequences](https://github.com/abjeet16/DSA-leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0806-number-of-lines-to-write-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/abjeet16/DSA-leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/abjeet16/DSA-leetcode/tree/master/0844-backspace-string-compare) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abjeet16/DSA-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0792-number-of-matching-subsequences](https://github.com/abjeet16/DSA-leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/abjeet16/DSA-leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/abjeet16/DSA-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/abjeet16/DSA-leetcode/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/abjeet16/DSA-leetcode/tree/master/0748-shortest-completing-word) |
+| [0792-number-of-matching-subsequences](https://github.com/abjeet16/DSA-leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0840-magic-squares-in-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0859-buddy-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/abjeet16/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
@@ -719,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/abjeet16/DSA-leetcode/tree/master/0472-concatenated-words) |
 | [0542-01-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/abjeet16/DSA-leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0792-number-of-matching-subsequences](https://github.com/abjeet16/DSA-leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0799-champagne-tower](https://github.com/abjeet16/DSA-leetcode/tree/master/0799-champagne-tower) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abjeet16/DSA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -942,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0611-valid-triangle-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/abjeet16/DSA-leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0761-special-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0761-special-binary-string) |
+| [0792-number-of-matching-subsequences](https://github.com/abjeet16/DSA-leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0899-orderly-queue](https://github.com/abjeet16/DSA-leetcode/tree/master/0899-orderly-queue) |
 | [0976-largest-perimeter-triangle](https://github.com/abjeet16/DSA-leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -1394,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abjeet16/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/abjeet16/DSA/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/abjeet16/DSA-leetcode/tree/master/0472-concatenated-words) |
+| [0792-number-of-matching-subsequences](https://github.com/abjeet16/DSA-leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Merge Sort
 |  |
