@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2864-maximum-odd-binary-number](https://github.com/abjeet16/DSA-leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abjeet16/DSA-leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2947-count-beautiful-substrings-i](https://github.com/abjeet16/DSA-leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abjeet16/DSA-leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2784-check-if-array-is-good](https://github.com/abjeet16/DSA-leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2947-count-beautiful-substrings-i](https://github.com/abjeet16/DSA-leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abjeet16/DSA-leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abjeet16/DSA-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -920,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/abjeet16/DSA-leetcode/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/abjeet16/DSA-leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/abjeet16/DSA-leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2947-count-beautiful-substrings-i](https://github.com/abjeet16/DSA-leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3024-type-of-triangle](https://github.com/abjeet16/DSA-leetcode/tree/master/3024-type-of-triangle) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abjeet16/DSA-leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3099-harshad-number](https://github.com/abjeet16/DSA-leetcode/tree/master/3099-harshad-number) |
@@ -1480,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-next-greater-numerically-balanced-number](https://github.com/abjeet16/DSA-leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2843-count-symmetric-integers](https://github.com/abjeet16/DSA-leetcode/tree/master/2843-count-symmetric-integers) |
+| [2947-count-beautiful-substrings-i](https://github.com/abjeet16/DSA-leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abjeet16/DSA-leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/abjeet16/DSA-leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
@@ -1494,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/abjeet16/DSA-leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/abjeet16/DSA-leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2947-count-beautiful-substrings-i](https://github.com/abjeet16/DSA-leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abjeet16/DSA-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Graph Theory
 |  |
@@ -1574,6 +1579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-maximize-the-minimum-powered-city](https://github.com/abjeet16/DSA-leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2536-increment-submatrices-by-one](https://github.com/abjeet16/DSA-leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/abjeet16/DSA-leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2947-count-beautiful-substrings-i](https://github.com/abjeet16/DSA-leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abjeet16/DSA-leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
