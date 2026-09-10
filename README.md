@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/abjeet16/DSA-leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/abjeet16/DSA-leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/abjeet16/DSA-leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/abjeet16/DSA-leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abjeet16/DSA-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/abjeet16/DSA-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/abjeet16/DSA-leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/abjeet16/DSA-leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/abjeet16/DSA-leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abjeet16/DSA-leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/abjeet16/DSA-leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/abjeet16/DSA-leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/abjeet16/DSA-leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/abjeet16/DSA-leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/abjeet16/DSA-leetcode/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/abjeet16/DSA-leetcode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abjeet16/DSA-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
