@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/abjeet16/DSA-leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0611-valid-triangle-number) |
 | [0821-shortest-distance-to-a-character](https://github.com/abjeet16/DSA-leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/abjeet16/DSA-leetcode/tree/master/0844-backspace-string-compare) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/abjeet16/DSA-leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abjeet16/DSA-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/abjeet16/DSA-leetcode/tree/master/0748-shortest-completing-word) |
 | [0761-special-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0761-special-binary-string) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/abjeet16/DSA-leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/abjeet16/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/abjeet16/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abjeet16/DSA-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/abjeet16/DSA-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/abjeet16/DSA-leetcode/tree/master/0706-design-hashmap) |
@@ -1147,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/abjeet16/DSA-leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/abjeet16/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abjeet16/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
