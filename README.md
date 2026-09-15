@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abjeet16/DSA-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/abjeet16/DSA-leetcode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/abjeet16/DSA-leetcode/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/abjeet16/DSA-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/abjeet16/DSA-leetcode/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/abjeet16/DSA-leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/abjeet16/DSA-leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/abjeet16/DSA-leetcode/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0867-transpose-matrix) |
@@ -1213,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/abjeet16/DSA-leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/abjeet16/DSA-leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0695-max-area-of-island](https://github.com/abjeet16/DSA-leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/abjeet16/DSA-leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/abjeet16/DSA-leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/abjeet16/DSA-leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -1403,6 +1406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/abjeet16/DSA-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/abjeet16/DSA-leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/abjeet16/DSA-leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/abjeet16/DSA-leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/abjeet16/DSA-leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/abjeet16/DSA-leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -1423,6 +1427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abjeet16/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/abjeet16/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abjeet16/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/abjeet16/DSA-leetcode/tree/master/0695-max-area-of-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abjeet16/DSA-leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/abjeet16/DSA-leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abjeet16/DSA-leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
