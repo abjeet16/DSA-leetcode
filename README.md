@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/abjeet16/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/abjeet16/DSA-leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2706-buy-two-chocolates](https://github.com/abjeet16/DSA-leetcode/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/abjeet16/DSA-leetcode/tree/master/2784-check-if-array-is-good) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/abjeet16/DSA-leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abjeet16/DSA-leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2536-increment-submatrices-by-one](https://github.com/abjeet16/DSA-leetcode/tree/master/2536-increment-submatrices-by-one) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abjeet16/DSA-leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Backtracking
 |  |
@@ -1237,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abjeet16/DSA-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abjeet16/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/abjeet16/DSA-leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abjeet16/DSA-leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Linked List
@@ -1423,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/abjeet16/DSA-leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/abjeet16/DSA-leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abjeet16/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -1438,6 +1442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/abjeet16/DSA-leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/abjeet16/DSA-leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abjeet16/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Trie
 |  |
