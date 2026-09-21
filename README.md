@@ -1514,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/abjeet16/DSA/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/abjeet16/DSA-leetcode/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/abjeet16/DSA-leetcode/tree/master/0584-find-customer-referee) |
+| [1148-article-views-i](https://github.com/abjeet16/DSA-leetcode/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/abjeet16/DSA-leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Enumeration
 |  |
