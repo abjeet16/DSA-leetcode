@@ -33,7 +33,7 @@ class Solution {
             }
             t1 = next;
         }
-        display(head);
+        //display(head);
         return head;
     }
 
