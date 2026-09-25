@@ -1574,6 +1574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abjeet16/DSA-leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abjeet16/DSA-leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/abjeet16/DSA-leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/abjeet16/DSA-leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/abjeet16/DSA-leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abjeet16/DSA-leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2092-find-all-people-with-secret](https://github.com/abjeet16/DSA-leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -1748,6 +1749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/abjeet16/DSA-leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/abjeet16/DSA-leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Bipartite Graph
 |  |
 | ------- |
