@@ -1,24 +1,25 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
+        StringBuilder curr = new StringBuilder();
         List<String> res = new ArrayList<>();
-        generate(res,n,0,0,new StringBuilder());
+        find(res,curr,0,n+n,0);
         return res;
     }
-
-    private void generate(List<String> res, int n, int open,int close, StringBuilder curr) {
-        if (curr.length()==n*2){
-            res.add(curr.toString());
+    private void find(List<String> res, StringBuilder curr,int i ,int n ,int val){
+        if(val<0)return;
+        if(i==n){
+            //System.out.println(curr);
+            if(val==0){
+                res.add(curr.toString());
+            }
             return;
         }
-        if (open<n){
-            curr.append("(");
-            generate(res,n,open+1,close,curr);
-            curr.deleteCharAt(curr.length() - 1);
-        }
-        if (close<open){
-            curr.append(")");
-            generate(res,n,open,close+1,curr);
-            curr.deleteCharAt(curr.length() - 1);
-        }
+
+        curr.append('(');
+        find(res,curr,i+1,n,val+1);
+        curr.deleteCharAt(curr.length()-1);
+        curr.append(')');
+        find(res,curr,i+1,n,val-1);
+        curr.deleteCharAt(curr.length()-1);
     }
 }
