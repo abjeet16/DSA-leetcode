@@ -2,23 +2,24 @@ class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
         int i = 0;
         int j = 0;
-        PriorityQueue<int[]> q = new PriorityQueue<>((a,b)->Integer.compare(b[1],a[1]));
-        for(i = 0 ; i < k ; i++){
-            q.offer(new int[]{i,nums[i]});
-        }
-        int size = nums.length+1-k;
-        int[] res = new int[size];
-        for(i = 0 ; i < Math.min(k,size) ; i++){
-            res[i] = q.peek()[1];
-        }
+        int idx = 0;
+        int n = nums.length;
+        int[] res = new int[n+1-k];
+        ArrayDeque<Integer>  q = new ArrayDeque<>();
+        while(i<n){
+            while(!q.isEmpty()&&q.peekLast()<nums[i])q.pollLast();
 
-        for(i = k ; i < nums.length ; i++){
-            q.offer(new int[]{i,nums[i]});
-            j++;
-            while(q.peek()[0]<j){
-                q.poll();
+            q.add(nums[i]);
+
+            if(i-j+1<k){
+                i++;
+            }else{
+                res[idx]=q.peek();
+                if(q.peek()==nums[j])q.pollFirst();
+                idx++;
+                i++;
+                j++;
             }
-            res[j] = q.peek()[1];
         }
         return res;
     }
