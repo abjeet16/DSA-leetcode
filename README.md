@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abjeet16/DSA-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0748-shortest-completing-word](https://github.com/abjeet16/DSA-leetcode/tree/master/0748-shortest-completing-word) |
 | [0761-special-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0761-special-binary-string) |
 | [0792-number-of-matching-subsequences](https://github.com/abjeet16/DSA-leetcode/tree/master/0792-number-of-matching-subsequences) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/abjeet16/DSA-leetcode/tree/master/0472-concatenated-words) |
 | [0542-01-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/abjeet16/DSA-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-number-of-matching-subsequences](https://github.com/abjeet16/DSA-leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0799-champagne-tower](https://github.com/abjeet16/DSA-leetcode/tree/master/0799-champagne-tower) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/abjeet16/DSA-leetcode/tree/master/0402-remove-k-digits) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/abjeet16/DSA-leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/abjeet16/DSA-leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/abjeet16/DSA-leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abjeet16/DSA-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abjeet16/DSA-leetcode/tree/master/0739-daily-temperatures) |
@@ -863,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/abjeet16/DSA-leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0976-largest-perimeter-triangle](https://github.com/abjeet16/DSA-leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abjeet16/DSA-leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1803,6 +1807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abjeet16/DSA-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
