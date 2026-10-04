@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/abjeet16/DSA-leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0840-magic-squares-in-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0853-car-fleet](https://github.com/abjeet16/DSA-leetcode/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/abjeet16/DSA-leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/abjeet16/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/abjeet16/DSA-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abjeet16/DSA-leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/abjeet16/DSA-leetcode/tree/master/0844-backspace-string-compare) |
+| [0853-car-fleet](https://github.com/abjeet16/DSA-leetcode/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/abjeet16/DSA-leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/abjeet16/DSA-leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/abjeet16/DSA-leetcode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/abjeet16/DSA-leetcode/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abjeet16/DSA-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1009,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/abjeet16/DSA-leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0761-special-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0761-special-binary-string) |
 | [0792-number-of-matching-subsequences](https://github.com/abjeet16/DSA-leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0853-car-fleet](https://github.com/abjeet16/DSA-leetcode/tree/master/0853-car-fleet) |
 | [0899-orderly-queue](https://github.com/abjeet16/DSA-leetcode/tree/master/0899-orderly-queue) |
 | [0976-largest-perimeter-triangle](https://github.com/abjeet16/DSA-leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0977-squares-of-a-sorted-array) |
