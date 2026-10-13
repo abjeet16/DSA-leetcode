@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abjeet16/DSA-leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abjeet16/DSA-leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/abjeet16/DSA-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abjeet16/DSA-leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3819-rotate-non-negative-elements](https://github.com/abjeet16/DSA-leetcode/tree/master/3819-rotate-non-negative-elements) |
 | [3899-angles-of-a-triangle](https://github.com/abjeet16/DSA-leetcode/tree/master/3899-angles-of-a-triangle) |
@@ -900,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/abjeet16/DSA-leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/abjeet16/DSA-leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/abjeet16/DSA-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3531-count-covered-buildings](https://github.com/abjeet16/DSA-leetcode/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/abjeet16/DSA-leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/abjeet16/DSA-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
 | ------- |
