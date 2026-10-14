@@ -12,7 +12,12 @@ class Solution {
 
         if(rem>0)res.append(rem);
 
-        while(res.length()<num)res.append("0");
+        int zeros = num - res.length();
+        
+        for (int i = 0; i < zeros; i++) 
+        {
+            res.append('0');
+        }
 
         return res.toString();
     }
