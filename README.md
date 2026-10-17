@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/abjeet16/DSA-leetcode/tree/master/3531-count-covered-buildings) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abjeet16/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abjeet16/DSA-leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abjeet16/DSA-leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-trionic-array-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3637-trionic-array-i) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/abjeet16/DSA-leetcode/tree/master/3531-count-covered-buildings) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abjeet16/DSA-leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abjeet16/DSA-leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Matrix
@@ -1063,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3531-count-covered-buildings](https://github.com/abjeet16/DSA-leetcode/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/abjeet16/DSA-leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abjeet16/DSA-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
