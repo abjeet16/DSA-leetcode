@@ -10,7 +10,9 @@ class Solution {
             }
         }
         List<Integer> res = new ArrayList<>();
-        for(int i = lessThen ; i < lessThen+tarC ; i++)res.add(i);
+        for (int i = 0; i < tarC; i++) {
+            res.add(lessThen+i);
+        }
 
         return res;
     }
