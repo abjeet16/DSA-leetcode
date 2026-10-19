@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2043-simple-bank-system](https://github.com/abjeet16/DSA-leetcode/tree/master/2043-simple-bank-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/abjeet16/DSA-leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abjeet16/DSA-leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/abjeet16/DSA-leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abjeet16/DSA-leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abjeet16/DSA-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abjeet16/DSA-leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/abjeet16/DSA-leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/abjeet16/DSA-leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/abjeet16/DSA-leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/abjeet16/DSA-leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
@@ -1043,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abjeet16/DSA-leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abjeet16/DSA-leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2054-two-best-non-overlapping-events](https://github.com/abjeet16/DSA-leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2092-find-all-people-with-secret](https://github.com/abjeet16/DSA-leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/abjeet16/DSA-leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
