@@ -1282,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/abjeet16/DSA-leetcode/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/abjeet16/DSA-leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abjeet16/DSA-leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1473,6 +1474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/abjeet16/DSA-leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/abjeet16/DSA-leetcode/tree/master/1020-number-of-enclaves) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/abjeet16/DSA-leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abjeet16/DSA-leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abjeet16/DSA-leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -1611,6 +1613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/abjeet16/DSA-leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/abjeet16/DSA-leetcode/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abjeet16/DSA-leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/abjeet16/DSA-leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abjeet16/DSA-leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/abjeet16/DSA-leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/abjeet16/DSA-leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -1840,4 +1843,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/abjeet16/DSA-leetcode/tree/master/0239-sliding-window-maximum) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/abjeet16/DSA-leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
