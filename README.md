@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abjeet16/DSA-leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-trionic-array-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3640-trionic-array-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/abjeet16/DSA-leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abjeet16/DSA-leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abjeet16/DSA-leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abjeet16/DSA-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -1194,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/abjeet16/DSA-leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/abjeet16/DSA-leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Memoization
 |  |
 | ------- |
